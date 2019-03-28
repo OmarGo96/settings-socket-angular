@@ -1,6 +1,6 @@
 # SocketAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+Este es un proyecto hecho con angular para interacturar con un servidor con respuestas socket
 
 ## Development server
 
